@@ -1,7 +1,7 @@
 {
   "name": "leo-detailing",
-  "predeploy" : "yarn run build",
-  "deploy" : "gh-pages -d build",
+  "predeploy": "yarn run build",
+  "deploy": "gh-pages -d build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
