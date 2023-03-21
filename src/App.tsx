@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Router>
       <MainMenu/>
-      <video src={cars} autoPlay loop muted className='bg_video'/>
+      <video src={cars} autoPlay loop muted className='bg_video' playsInline/>
       {Routes}
       </Router>
     </div>
