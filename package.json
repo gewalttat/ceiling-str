@@ -1,5 +1,7 @@
 {
   "name": "leo-detailing",
+  "predeploy" : "yarn run build",
+  "deploy" : "gh-pages -d build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +13,7 @@
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-floating-whatsapp": "^5.0.8",
