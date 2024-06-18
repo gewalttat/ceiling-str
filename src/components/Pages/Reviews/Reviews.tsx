@@ -5,7 +5,7 @@ type Props = {}
 
 const Reviews = (props: Props) => {
   return (
-    <Typography mt={7} fontWeight={700} color="white">ЗАЕБИСЬ ПОЛИРУЮТ И ТОНИРУЮТ ЗВОНИТЕ</Typography>
+    <Typography mt={7} fontWeight={700} color="white">ТЕКСТ ТЕКСТ ТЕКСТ</Typography>
   )
 }
 

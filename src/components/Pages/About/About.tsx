@@ -6,7 +6,7 @@ type Props = {}
 const About = (props: Props) => {
   return (
     <div className='about'>
-        <h1>ТОНИРОВКА У ЕВГЕНИЯ ПО КЛИЧКЕ ПРИЧЕСКА</h1>
+        <h1>текст текст текст</h1>
         </div>
   )
 }
