@@ -2,7 +2,7 @@ import React from 'react';
 import { Typography } from '@mui/material';
 import { Map } from './Map/Map';
 import { FloatingWhatsApp } from 'react-floating-whatsapp';
-import ebalo from './source/ebalo.png';
+import ceiling_logo from '../../../images/ceiling_logo.png';
 import './Contacts.scss'
 
 const Contacts = () => {
@@ -14,11 +14,12 @@ const Contacts = () => {
     <Typography fontWeight={700} color="white">8-917-36-96-341: Евгений</Typography>
     <Map />
     <FloatingWhatsApp 
-       phoneNumber='79173696341' 
-       accountName='Евгений Прическа' 
-       chatMessage='Добрый день! Для записи напишите здесь или позвоните мне по номеру на сайте' 
+       phoneNumber='79869668983' 
+       accountName='Менеджер Силинг' 
+       chatMessage='Добрый день! Для записи или консультации напишите здесь или позвоните мне по номеру на сайте' 
        statusMessage='Обычно отвечает в течении часа'
-       avatar={ebalo} />
+       avatar={ceiling_logo}
+      />
     </>
   )
 }
