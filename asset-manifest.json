@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ceiling-str/static/css/main.032b2a57.css",
+    "main.js": "/ceiling-str/static/js/main.f6d53484.js",
+    "static/media/light.mp4": "/ceiling-str/static/media/light.519793ee5472b7d8c054.mp4",
+    "static/media/light2.jpg": "/ceiling-str/static/media/light2.bf82fa1ca0dbdc715991.jpg",
+    "static/media/light5.jpg": "/ceiling-str/static/media/light5.e06a071f686e182792b6.jpg",
+    "static/media/light4.jpg": "/ceiling-str/static/media/light4.4ac64a9966677f538a50.jpg",
+    "static/media/light8.jpg": "/ceiling-str/static/media/light8.c87c425568da872df9ad.jpg",
+    "static/media/light3.jpg": "/ceiling-str/static/media/light3.99c3f044a130bc617f61.jpg",
+    "static/media/light7.jpg": "/ceiling-str/static/media/light7.fe68a0e81e8a483e0045.jpg",
+    "static/media/light6.jpg": "/ceiling-str/static/media/light6.9a3460cd0c14c101be60.jpg",
+    "static/media/light1.jpg": "/ceiling-str/static/media/light1.4076ecf72a3df2402106.jpg",
+    "static/media/ceiling_logo.png": "/ceiling-str/static/media/ceiling_logo.9f0a14518893079e2287.png",
+    "index.html": "/ceiling-str/index.html",
+    "main.032b2a57.css.map": "/ceiling-str/static/css/main.032b2a57.css.map",
+    "main.f6d53484.js.map": "/ceiling-str/static/js/main.f6d53484.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.032b2a57.css",
+    "static/js/main.f6d53484.js"
+  ]
+}
