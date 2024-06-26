@@ -9,9 +9,9 @@ const Contacts = () => {
   return (
     <>
     <Typography mt={5} color="white">Мы находимся по адресу:</Typography>
-    <Typography fontWeight={700} color="white">СТЕРЛИБАШЕВСКИЙ ТРАКТ 1А</Typography>
+    <Typography fontWeight={700} color="white">город Стерлитамак, улица 23 мая, 34</Typography>
     <Typography mt={5} color="white">Запись по телефону</Typography>
-    <Typography fontWeight={700} color="white">8-917-36-96-341: Евгений</Typography>
+    <Typography fontWeight={700} color="white">+7-986-966-89-83</Typography>
     <Map />
     <FloatingWhatsApp 
        phoneNumber='79869668983' 
